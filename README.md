@@ -7,7 +7,7 @@ Please feel free to explore my github profile, maybe it interest you.
 make all
 ```
 
-# How to run
+## How to run
 ```
 ./main
 ```
